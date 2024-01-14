@@ -7,7 +7,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" exact element={<Home />} />
+        <Route path="/metar-app" exact element={<Home />} />
         <Route path="/What-is-the-metar" element={<AboutPage />} />
       </Routes>
     </Router>

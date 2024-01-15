@@ -1,5 +1,5 @@
 # Getting Started with https://metar-search-app.netlify.app/
-- This project used a api.
+- This project used an api.
 - The aim of the project is to show the weather events at the searched airport.
 - you can see my project images
   <img width="1680" alt="Screenshot 2024-01-14 at 7 01 22 PM" src="https://github.com/ali-osman-de/Metar-App/assets/72684098/f4fac3ae-8cd4-4a31-8141-dad2272776b0">

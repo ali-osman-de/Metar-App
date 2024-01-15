@@ -1,6 +1,16 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Getting Started with https://metar-search-app.netlify.app/
+- This project used a api.
+- The aim of the project is to show the weather events at the searched airport.
+- you can see my project images
+  <img width="1680" alt="Screenshot 2024-01-14 at 7 01 22 PM" src="https://github.com/ali-osman-de/Metar-App/assets/72684098/f4fac3ae-8cd4-4a31-8141-dad2272776b0">
+  <br>
+  <img width="1680" alt="Screenshot 2024-01-14 at 7 01 43 PM" src="https://github.com/ali-osman-de/Metar-App/assets/72684098/9adef69f-96ec-4631-8215-234a6b30f8f9">
+  <br>
+<img width="1680" alt="Screenshot 2024-01-14 at 7 02 00 PM" src="https://github.com/ali-osman-de/Metar-App/assets/72684098/21dfcb4b-4816-466a-a062-5f3f52bd2276">
+<br>
+<img width="1680" alt="Screenshot 2024-01-14 at 7 02 11 PM" src="https://github.com/ali-osman-de/Metar-App/assets/72684098/3c8dee03-7e01-4de5-83a5-167c0844f930">
+  <br>
+  <img width="1680" alt="Screenshot 2024-01-14 at 7 02 30 PM" src="https://github.com/ali-osman-de/Metar-App/assets/72684098/37332407-0a0f-4e92-84a4-a22ac127c178">
 
 ## Available Scripts
 
